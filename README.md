@@ -54,7 +54,6 @@ firebase deploy
 - Minimal dependencies for fast load
 
 ## Credits
-- Inspired by [Monkeytype](https://monkeytype.com/)
 - Built with [React](https://reactjs.org/), [Firebase](https://firebase.google.com/), and [Recharts](https://recharts.org/)
 - Confetti by [canvas-confetti](https://www.npmjs.com/package/canvas-confetti)
 
