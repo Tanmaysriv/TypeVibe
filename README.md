@@ -1,6 +1,6 @@
 # TypeVibe
 
-A modern, Monkeytype-inspired typing speed test web app built with React.
+A modern, typing speed test web app built with React.
 
 ## Features
 - **Typing Test**: Measures WPM, accuracy, and provides real-time feedback
